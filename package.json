@@ -1,0 +1,38 @@
+{
+  "name": "angular-to-react-migration-example",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "angular": "1.7.8",
+    "angular-ui-router": "1.0.20",
+    "ng-redux": "4.0.3",
+    "query-string": "6.5.0",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-redux": "7.0.3",
+    "react-scripts": "^5.0.0",
+    "react2angular": "4.0.6",
+    "redux": "4.0.1",
+    "redux-thunk": "2.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
